@@ -1,0 +1,5 @@
+Soldiers=1
+Teddy bear=2
+Plush Shark=1
+Car=1
+LEGO city=1
